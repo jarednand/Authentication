@@ -4,7 +4,7 @@ Author: Jared Nand
 
 Description: Fully functional authentication system which includes the following features: login, registration, password reset, remember me, and authentication with Google and Facebook using the Google and Facebook APIs
     
-Technologies Used: HTML5, CSS3, Bootstrap 4, jQuery 3.3.1, PHP 7, PHP PDO for interacting with the database, PHPMailer for sending emails via SMTP, and MySQL
+Technologies Used: HTML5, CSS3,jQuery 3.3.1, PHP 7, PHP PDO for interacting with the database, PHPMailer for sending emails via SMTP, and MySQL
     
 To get the project working, make the following changes:
   1. Clone the project
